@@ -9,8 +9,10 @@
 | [Vulnversity][2]                       | Very Easy    |
 | [Kenobi][3]                            | Very Easy    |
 | [Blue][4]                              | Very Easy    |
+| [Basic Pentesting][5]                  | Very Easy    |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
 [3]: ./kenobi
 [4]: ./blue
+[5]: ./basic_pentesting
