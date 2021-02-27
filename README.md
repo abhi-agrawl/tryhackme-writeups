@@ -7,6 +7,8 @@
 |	Name                                   | Difficulty   |
 | -------------------------------------- | -------------|
 | [Vulnversity][2]                       | Very Easy    |
+| [Kenobi][3]                            | Very Easy    |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
+[3]: ./kenobi
