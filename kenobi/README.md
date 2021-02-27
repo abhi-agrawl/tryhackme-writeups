@@ -2,13 +2,13 @@
 Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your privileges with path variable manipulation.
 
 
-#### [TASK 1] Deploy the vulnerable machine
+### [TASK 1] Deploy the vulnerable machine
 
 ![Nmap Scan](images/scan.jpg)
 
 Scan the machine with nmap, how many ports are open? **7**
 
-#### [TASK 2] Enumerating Samba for shares
+### [TASK 2] Enumerating Samba for shares
 
 ![Samba Nmap Scan](images/samba_scan.jpg)
 
@@ -28,7 +28,7 @@ What port is FTP running on? **21**
 
 What mount can we see? **/var**
 
-#### [TASK 3] Gain initial access with ProFtpd
+### [TASK 3] Gain initial access with ProFtpd
 
 ![Get FTP Version](images/version_check.jpg)
 
@@ -53,7 +53,7 @@ After mounting the drive get the ***id_rsa*** file and change its permission to 
 What is Kenobi's user flag (/home/kenobi/user.txt)?
 > Now that we have access to the machine as *kenobi* user. We can do `cat user.txt` to get the flag.
 
-#### [Task 4]  Privilege Escalation with Path Variable Manipulation
+### [Task 4]  Privilege Escalation with Path Variable Manipulation
 
 > To find SUIDs on a system, run `find / -perm -u=s -type f 2>/dev/null`. To know more, [Click Here][2]
 

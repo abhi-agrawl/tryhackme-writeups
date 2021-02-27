@@ -1,7 +1,7 @@
 # [Vulnversity][5]
 Learn about active recon, web app attacks and privilege escalation.
 
-#### [TASK 2] Reconnaissance
+### [TASK 2] Reconnaissance
 
 Nmap Cheatsheet -> https://www.stationx.net/nmap-cheat-sheet/
 
@@ -29,7 +29,7 @@ Its important to ensure you are always doing your reconnaissance thoroughly befo
 
 
 
-#### [TASK 3] Locating directories using GoBuster
+### [TASK 3] Locating directories using GoBuster
 
 Let's start with a GoBuster Directory scan. Command and the location of wordlist is given. There are a lot of wordlist to choose from but for the sake of this room *small.txt* from *dirb* directory will enough.
 
@@ -39,7 +39,7 @@ What is the directory that has an upload form page? **/internal/**
 
 > Try to access all the directory and BAAM! */internal* has a upload page. If none of this would have worked, try other wordlist like *common.txt*. Also, **recursive** option can be used. DirBuster GUI version can be used too.
 
-#### [TASK 4] Compromise the webserver
+### [TASK 4] Compromise the webserver
 
 Try upload a few file types to the server, what common extension seems to be blocked? **.php**
 
@@ -60,7 +60,7 @@ What is the name of the user who manages the webserver? **bill**
 What is the user flag?
 > As we know *bill* is the user. Direct to /home/bill. Type, `cd /home/bill`. There is a file called **user.txt**. Check the content of the file using `cat user.txt`.
 
-#### [TASK 5] Privilege Escalation
+### [TASK 5] Privilege Escalation
 
 On the system, search for all SUID files. What file stands out? **/bin/systemctl**
 
