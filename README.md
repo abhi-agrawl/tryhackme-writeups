@@ -10,7 +10,7 @@
 | [Kenobi][3]                            | Very Easy    |
 | [Blue][4]                              | Very Easy    |
 | [Basic Pentesting][5]                  | Very Easy    |
-| Classic Passwd[6]                      | Medium       |
+| [Classic Passwd][6]                    | Medium       |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
