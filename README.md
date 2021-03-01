@@ -6,11 +6,12 @@
 
 |	Name                                   | Difficulty   |
 | -------------------------------------- | -------------|
-| [Vulnversity][2]                       | Very Easy    |
-| [Kenobi][3]                            | Very Easy    |
-| [Blue][4]                              | Very Easy    |
-| [Basic Pentesting][5]                  | Very Easy    |
+| [Vulnversity][2]                       | Easy         |
+| [Kenobi][3]                            | Easy         |
+| [Blue][4]                              | Easy         |
+| [Basic Pentesting][5]                  | Easy         |
 | [Classic Passwd][6]                    | Medium       |
+| [JPGChat][7]                           | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -18,3 +19,4 @@
 [4]: ./blue
 [5]: ./basic_pentesting
 [6]: ./classic_passwd
+[7]: ./jpgchat
