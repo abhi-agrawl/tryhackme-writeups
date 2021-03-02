@@ -12,6 +12,7 @@
 | [Basic Pentesting][5]                  | Easy         |
 | [Classic Passwd][6]                    | Medium       |
 | [JPGChat][7]                           | Easy         |
+| [Regular expressions][8]               | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -20,3 +21,4 @@
 [5]: ./basic_pentesting
 [6]: ./classic_passwd
 [7]: ./jpgchat
+[8]: ./regular-expressions
