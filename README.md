@@ -2,7 +2,7 @@
 
 [TryHackMe][1] is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
-## ROOM
+## ROOMS
 
 |	Name                                   | Difficulty   |
 | -------------------------------------- | -------------|
@@ -13,6 +13,7 @@
 | [Classic Passwd][6]                    | Medium       |
 | [JPGChat][7]                           | Easy         |
 | [Regular expressions][8]               | Easy         |
+| [Crack the hash][9]                    | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -22,3 +23,4 @@
 [6]: ./classic_passwd
 [7]: ./jpgchat
 [8]: ./regular-expressions
+[9]: ./crack-the-hash
