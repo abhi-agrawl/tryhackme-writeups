@@ -43,6 +43,8 @@
 
 Alternatively, [John The Ripper][4] can be used. To specify the type use `--format` flag.
 
+To know which kind of HASH, pre-installed tool like `hash-identifier` or `hashid` can be used expect from the online version like [Hex Analyzer][3].
+
 [1]: https://tryhackme.com/room/crackthehash
 [2]: https://crackstation.net/
 [3]: https://www.tunnelsup.com/hash-analyzer/
