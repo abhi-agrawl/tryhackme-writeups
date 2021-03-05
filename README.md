@@ -14,6 +14,7 @@
 | [JPGChat][7]                           | Easy         |
 | [Regular expressions][8]               | Easy         |
 | [Crack the hash][9]                    | Easy         |
+| [tomghost][10]                         | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -24,3 +25,4 @@
 [7]: ./jpgchat
 [8]: ./regular-expressions
 [9]: ./crack-the-hash
+[10]: ./tomghost
