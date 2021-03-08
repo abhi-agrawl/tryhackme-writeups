@@ -15,6 +15,7 @@
 | [Regular expressions][8]               | Easy         |
 | [Crack the hash][9]                    | Easy         |
 | [tomghost][10]                         | Easy         |
+| [Team][11]                             | Medium       |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -26,3 +27,4 @@
 [8]: ./regular-expressions
 [9]: ./crack-the-hash
 [10]: ./tomghost
+[11]: ./team
