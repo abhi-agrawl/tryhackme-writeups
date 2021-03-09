@@ -16,6 +16,7 @@
 | [Crack the hash][9]                    | Easy         |
 | [tomghost][10]                         | Easy         |
 | [Team][11]                             | Medium       |
+| [Mr. Robot CTF][12]                    | Medium       |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -28,3 +29,4 @@
 [9]: ./crack-the-hash
 [10]: ./tomghost
 [11]: ./team
+[12]: ./mr-robot-ctf
