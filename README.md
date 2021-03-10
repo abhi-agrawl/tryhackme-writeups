@@ -18,6 +18,7 @@
 | [Team][11]                             | Medium       |
 | [Mr. Robot CTF][12]                    | Medium       |
 | [OhSINT][13]                           | Easy         |
+| [Simple CTF][14]                       | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -32,3 +33,4 @@
 [11]: ./team
 [12]: ./mr-robot-ctf
 [13]: ./ohsint
+[14]: ./simple-ctf
