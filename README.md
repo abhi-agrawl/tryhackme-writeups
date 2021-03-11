@@ -19,6 +19,7 @@
 | [Mr. Robot CTF][12]                    | Medium       |
 | [OhSINT][13]                           | Easy         |
 | [Simple CTF][14]                       | Easy         |
+| [Pickle Rick][15]                      | Very Easy    |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -34,3 +35,4 @@
 [12]: ./mr-robot-ctf
 [13]: ./ohsint
 [14]: ./simple-ctf
+[15]: ./pickle-rick
