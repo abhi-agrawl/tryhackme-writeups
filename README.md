@@ -21,6 +21,7 @@
 | [Simple CTF][14]                       | Easy         |
 | [Pickle Rick][15]                      | Very Easy    |
 | [CTF collection Vol.1][16]             | Easy         |
+| [Badbyte][17]                          | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -38,3 +39,4 @@
 [14]: ./simple-ctf
 [15]: ./pickle-rick
 [16]: ./ctf-collection-vol1
+[17]: ./badbyte
