@@ -19,9 +19,10 @@
 | [Mr. Robot CTF][12]                    | Medium       |
 | [OhSINT][13]                           | Easy         |
 | [Simple CTF][14]                       | Easy         |
-| [Pickle Rick][15]                      | Very Easy    |
+| [Pickle Rick][15]                      | Easy         |
 | [CTF collection Vol.1][16]             | Easy         |
 | [Badbyte][17]                          | Easy         |
+| [Bounty Hacker][18]                    | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -40,3 +41,4 @@
 [15]: ./pickle-rick
 [16]: ./ctf-collection-vol1
 [17]: ./badbyte
+[18]: ./bounty-hacker
