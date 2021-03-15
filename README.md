@@ -23,6 +23,7 @@
 | [CTF collection Vol.1][16]             | Easy         |
 | [Badbyte][17]                          | Easy         |
 | [Bounty Hacker][18]                    | Easy         |
+| [Metasploit][19]                       | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -42,3 +43,4 @@
 [16]: ./ctf-collection-vol1
 [17]: ./badbyte
 [18]: ./bounty-hacker
+[19]: ./metasploit
