@@ -24,6 +24,7 @@
 | [Badbyte][17]                          | Easy         |
 | [Bounty Hacker][18]                    | Easy         |
 | [Metasploit][19]                       | Easy         |
+| [Lazy Admin][20]                       | Easy         |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -44,3 +45,4 @@
 [17]: ./badbyte
 [18]: ./bounty-hacker
 [19]: ./metasploit
+[20]: ./lazy-admin
