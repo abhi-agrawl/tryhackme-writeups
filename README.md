@@ -26,6 +26,7 @@
 | [Metasploit][19]                       | Easy         |
 | [Lazy Admin][20]                       | Easy         |
 | [Overpass][21]                         | Easy         |
+| [Anonymous][22]                        | Medium       |
 
 [1]: https://tryhackme.com/
 [2]: ./vulnversity
@@ -48,3 +49,4 @@
 [19]: ./metasploit
 [20]: ./lazy-admin
 [21]: ./overpass
+[22]: ./anonymous
