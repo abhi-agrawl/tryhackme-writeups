@@ -1,3 +1,5 @@
+***THIS REPO IS MOVED TO -> https://github.com/hackhunt/tryhackme-writeups***
+
 # TryHackMe Writeups
 
 [TryHackMe][1] is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
